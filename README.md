@@ -1,3 +1,9 @@
+
+### Bonjour à toi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<br>
+<br>
+
 <a href="https://twitter.com/laybraid" target="_blank">
 
   <img align="left" alt="LayBraid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -10,7 +16,8 @@
 
 </a>
 
-### Bonjour à toi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br>
+<br>
 
 <img align="right" alt="Mes statistiques" src="https://github-readme-stats.vercel.app/api?username=laybraid&show_icons=true&hide_border=true" />
 
