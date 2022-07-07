@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Clément Loeuillet</h1>
-<h3 align="center">I'm Epitech student at Lyon.</h3>
+<h3 align="center">
+I'm Head of AI at <a href="https://github.com/PoCInnovation">PoC Innovation</a> and Epitech student.
+</h3>
 
 # 💫 About Me :
 
-🌱 I’m currently learning Go and React
+🌱 I’m currently learning React and AI.
 
 📫 How to reach me clement.loeuillet@epitech.eu
 
