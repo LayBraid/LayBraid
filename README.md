@@ -5,7 +5,7 @@ I'm Head of AI at <a href="https://github.com/PoCInnovation">PoC Innovation</a> 
 
 # 💫 About Me :
 
-🌱 I’m currently learning React and AI.
+🌱 I'm currently improving my skills in artificial intelligence and DevOps.
 
 📫 How to reach me clement.loeuillet@epitech.eu
 
