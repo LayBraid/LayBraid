@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working on web development technologies like TypeScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 🧮 I'm currently manage a project about Artificial Intelligence and Machine Learning at <a href="https://github.com/PoCInnovation">PoC Innovation</a>
+- 🧮 I'm currently manage two projects about Artificial Intelligence and Machine Learning at <a href="https://github.com/PoCInnovation">PoC Innovation</a>
 
 ## 🤝 Connect with me
 <p align="center">
