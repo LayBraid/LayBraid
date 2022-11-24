@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clement Loeuillet</h1>
 
----
-
 <a href="https://laybraid.fr">
     <h3 align="center" style="margin-top: -15px; margin-bottom: -15px">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Head+of+AI+at+%40PoCInnovation;FullStack+Developper;UI%2FUX+Designer" alt="Typing SVG" />
