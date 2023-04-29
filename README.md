@@ -2,13 +2,13 @@
 
 <a href="https://laybraid.fr">
     <h3 align="center" style="margin-top: -15px; margin-bottom: -15px">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Head+of+AI+at+%40PoCInnovation;FullStack+Developper;UI%2FUX+Designer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Project+Manager+-+Junior+Conseil+Taker;FullStack+Developper;UI%2FUX+Designer" alt="Typing SVG" />
     </h3>
 </a>
 
 - 👨‍💻 I’m currently working on web development technologies like TypeScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 🧮 I'm currently manage two projects about Artificial Intelligence and Machine Learning at <a href="https://github.com/PoCInnovation">PoC Innovation</a>
+- 🧮 I'm a project manager at [Conseil Junior Taker](https://juniortaker.com)
 
 ## 🤝 Connect with me
 <p align="center">
