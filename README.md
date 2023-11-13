@@ -6,8 +6,8 @@
     </h3>
 </a>
 
-- 👨‍💻 I’m currently working on web development technologies like TypeScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working on web development technologies like Python Django, React etc.
+- 📚 I’m currently learning everything about PHP langage.
 - 🧮 I'm a President at [Conseil Junior Taker](https://juniortaker.com)
 
 ## 🤝 Connect with me
