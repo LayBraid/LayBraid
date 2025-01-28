@@ -5,9 +5,9 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Head+of+IT+%40+CNJE;Fullstack+developer" alt="Typing SVG" />
     </h3>
 </a>
-
+<!--
 - 👨‍💻 I’m currently working on web development technologies like Python Django, React etc.
-- 📚 I’m currently learning everything about PHP langage.
+- 📚 I’m currently learning everything about PHP langage.-->
 - 🧮 I'm Head of IT at [CNJE](https://junior-entreprises.com)
 
 ## 🤝 Connect with me
