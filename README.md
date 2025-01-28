@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working on web development technologies like Python Django, React etc.
 - 📚 I’m currently learning everything about PHP langage.
-- 🧮 I'm a Head of IT at [CNJE](https://junior-entreprises.com)
+- 🧮 I'm Head of IT at [CNJE](https://junior-entreprises.com)
 
 ## 🤝 Connect with me
 <p align="center">
