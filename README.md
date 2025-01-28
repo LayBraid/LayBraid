@@ -2,24 +2,18 @@
 
 <a href="https://laybraid.fr">
     <h3 align="center" style="margin-top: -15px; margin-bottom: -15px">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=President+at+Junior+Conseil+Taker;FullStack+Developper" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Head+of+IT+%40+CNJE;Fullstack+developer" alt="Typing SVG" />
     </h3>
 </a>
 
 - 👨‍💻 I’m currently working on web development technologies like Python Django, React etc.
 - 📚 I’m currently learning everything about PHP langage.
-- 🧮 I'm a President at [Conseil Junior Taker](https://juniortaker.com)
+- 🧮 I'm a Head of IT at [CNJE](https://junior-entreprises.com)
 
 ## 🤝 Connect with me
 <p align="center">
     <a href="https://www.linkedin.com/in/clement-loeuillet">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://discord.gg/sGXUXtf6G9">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-    <a href="mailto:contact@laybraid.fr">
-        <img src="https://img.shields.io/badge/MAIL-4ea94b?style=for-the-badge&logo=mail.ru&logoColor=white">
     </a>
 </p>
 
