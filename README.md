@@ -7,8 +7,8 @@
 </a>
 <!--
 - 👨‍💻 I’m currently working on web development technologies like Python Django, React etc.
-- 📚 I’m currently learning everything about PHP langage.-->
-🧮 I'm Head of IT at National Confederation of Junior Enterprises
+- 📚 I’m currently learning everything about PHP langage.
+🧮 I'm Head of IT at National Confederation of Junior Enterprises-->
 
 ## 🤝 Connect with me
 <p align="center">
