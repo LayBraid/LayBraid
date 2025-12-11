@@ -2,7 +2,7 @@
 
 <a href="https://laybraid.fr">
     <h3 align="center" style="margin-top: -15px; margin-bottom: -15px">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Head+of+IT+%40+CNJE;Fullstack+developer" alt="Typing SVG" />
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5E9563&vCenter=true&width=435&lines=Product+Engineer+%40+Task+FM" alt="Typing SVG" /></a>
     </h3>
 </a>
 <!--
